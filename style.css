@@ -22,7 +22,7 @@ body {
     margin-top: 2em;
     max-width: 300px;
     width: 60%;
-    border: 2px solid white;
+    border: 3px solid white;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -54,7 +54,7 @@ body {
     border-radius: 50%;
     text-align: center;
     color: white;
-    border: 2px solid white;
+    border: 3px solid white;
 }
 
 .round-btn:hover{
@@ -81,22 +81,21 @@ body {
     font-size: 1rem;
     padding: .5em 1em;
     margin: .3em;
-    border: 1px solid white;
+    border: 3px solid white;
     border-radius: 5px;
     text-transform: uppercase;
 }
 
 
 .preEnt-el {
-    padding: .5em .7em;
-    border: 1px solid white;
+    padding: .3em .6em;
+    border: 3px solid white;
     border-radius: 5px;
     background-color: whitesmoke;
     color: black;
-    font-size: 1rem;
+    font-size: 1.2rem;
     width: 90%;
     text-align: center;
-    padding: 1em 2em;
 }
 
 @media (min-width:992px) {
